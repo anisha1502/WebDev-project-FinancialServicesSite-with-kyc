@@ -1,6 +1,6 @@
 # Real Estate Website with Kyc verification
-A website for users to buy sell and rent properties where each user is verified with the kyc feature.
-The system is developed using:
-frontend-html,bootstrap,css.
-backend-php
-database-mysql 
+
+A Full Stack dynamic Financial services site. This Financial corporation site will
+provide functionalities like kyc,insurance with a calculator & real estate with functions to
+upload and review a property from kyc verified and unverified users. All made in PHP
+connected with database mysql. along with jquery, html, css, javascript, and bootstrap.
