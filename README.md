@@ -7,6 +7,7 @@ connected with database mysql. along with jquery, html, css, javascript, and boo
 
 Our project “Financial Corporation Using Kyc System” aims to know each of its customers details so as to ensure that financial services are not misused. By verifying each of the customer there is an assurance that the services like insurance, real estate and all transactions are executed in a secure manner. There is also business opportunities to our users to advertise about their property and also their contact information won’t be misused. Our project idea can be used by real estate and insurance agencies to verify their customers and provide verified services. In future scope, we plan to add image processing system to process verified relevant documents of customers along with kyc form. Also, we plan to add payment gateways so enable net banking and credit/debit card payment for purchasing insurance.
 
+Check out Documentation and FINANCIAL CORPORATION USING KYC.pptx to know more!
 
 
 
