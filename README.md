@@ -13,6 +13,8 @@ Check out Documentation and FINANCIAL CORPORATION USING KYC.pptx to know more!
 [**Agnellus Fernandes**](https://www.linkedin.com/in/agnellus-fernandes-81232b192)
 
 [**Anisha Fernandes**](https://www.linkedin.com/in/anisha-fernandes-9063651a1)
+
+[**Chelsea Fernandes**](https://www.linkedin.com/in/anisha-fernandes-9063651a1)
 ***
 
 1. Project database having tables for kyc, bank account, user log in, upload image, upload property etc.  
